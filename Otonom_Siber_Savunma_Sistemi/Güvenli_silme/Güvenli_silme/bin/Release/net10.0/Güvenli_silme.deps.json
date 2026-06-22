@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Güvenli_silme/1.0.0": {
+        "runtime": {
+          "Güvenli_silme.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Güvenli_silme/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

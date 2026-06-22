@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Güvenli_silme\Güvenli_silme\bin\Release\net10.0\Güvenli_silme.exe
+C:\Users\demir\source\repos\Güvenli_silme\Güvenli_silme\bin\Release\net10.0\Güvenli_silme.deps.json
+C:\Users\demir\source\repos\Güvenli_silme\Güvenli_silme\bin\Release\net10.0\Güvenli_silme.runtimeconfig.json
+C:\Users\demir\source\repos\Güvenli_silme\Güvenli_silme\bin\Release\net10.0\Güvenli_silme.dll
+C:\Users\demir\source\repos\Güvenli_silme\Güvenli_silme\bin\Release\net10.0\Güvenli_silme.pdb
+C:\Users\demir\source\repos\Güvenli_silme\Güvenli_silme\obj\Release\net10.0\Güvenli_silme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Güvenli_silme\Güvenli_silme\obj\Release\net10.0\Güvenli_silme.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Güvenli_silme\Güvenli_silme\obj\Release\net10.0\Güvenli_silme.AssemblyInfo.cs
+C:\Users\demir\source\repos\Güvenli_silme\Güvenli_silme\obj\Release\net10.0\Güvenli_silme.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Güvenli_silme\Güvenli_silme\obj\Release\net10.0\Güvenli_silme.dll
+C:\Users\demir\source\repos\Güvenli_silme\Güvenli_silme\obj\Release\net10.0\refint\Güvenli_silme.dll
+C:\Users\demir\source\repos\Güvenli_silme\Güvenli_silme\obj\Release\net10.0\Güvenli_silme.pdb
+C:\Users\demir\source\repos\Güvenli_silme\Güvenli_silme\obj\Release\net10.0\Güvenli_silme.genruntimeconfig.cache
+C:\Users\demir\source\repos\Güvenli_silme\Güvenli_silme\obj\Release\net10.0\ref\Güvenli_silme.dll
